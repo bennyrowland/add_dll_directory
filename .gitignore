@@ -1,0 +1,5 @@
+.idea
+.tox
+dist
+MANIFEST
+*.egg-info
