@@ -1,4 +1,5 @@
 include dll/*
+include dll/sub/*
 include pyproject.toml
 include setup.py
 include CMakeLists.txt
